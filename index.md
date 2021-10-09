@@ -2,11 +2,9 @@
 
 [<center><font color = red>Author](https://github.com/ElisaPixtink/)
 
-<font color = orange>
+## <font color = orange>Java class
 
-## Java class
-
-## Native
+## <font color = orange>Native
 
 <font color = green>Gu......
 
