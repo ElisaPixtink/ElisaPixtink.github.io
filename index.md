@@ -1,34 +1,14 @@
-## Welcome to GitHub Pages
+# <center><font color = yellow>A method of Java and C transfer complex struct to each other like struct array with arrays and numbers
 
-You can use the [editor on GitHub](https://github.com/ElisaPixtink/ElisaPixtink.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[<center><font color = red>Author](https://github.com/ElisaPixtink/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<font color = orange>
 
-### Markdown
+## Java class
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Native
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+<font color = green>Gu......
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElisaPixtink/ElisaPixtink.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
