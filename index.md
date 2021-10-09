@@ -1,8 +1,12 @@
-# <center,font color = yellow>A method of Java and C transfer complex struct to each other like struct array with arrays and numbers<br>
+<center><br>
+
+# <font color = yellow>A method of Java and C transfer complex struct to each other like struct array with arrays and numbers<br>
 
 [<font color = red>Author](https://github.com/ElisaPixtink/)<br>
 
-## <left,font color = orange>Java class<br>
+<left><br>
+
+## <font color = orange>Java class<br>
 
 ## <font color = orange>Native<br>
 
