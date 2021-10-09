@@ -1,12 +1,18 @@
 # <center><font color = yellow>A method of Java and C transfer complex struct to each other like struct array with arrays and numbers
 
-[<center><font color = red>Author](https://github.com/ElisaPixtink/)
+<font color = red>
+  
+[<center>Author](https://github.com/ElisaPixtink/)
 
-## <font color = orange>Java class
+<font color = orange>
 
-## <font color = orange>Native
+## Java class
 
-<font color = green>Gu......
+## Native
+
+<font color = green>
+
+Gu......
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElisaPixtink/ElisaPixtink.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
