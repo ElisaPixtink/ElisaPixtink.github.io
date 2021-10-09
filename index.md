@@ -1,21 +1,21 @@
 # <center><font color = yellow>A method of Java and C transfer complex struct to each other like struct array with arrays and numbers
 
-<font color = red>
+<font color = red><br>
   
-[<center>Author](https://github.com/ElisaPixtink/)
+[<center>Author](https://github.com/ElisaPixtink/)<br>
 
-<font color = orange>
+<font color = orange><br>
 
-## Java class
+## Java class<br>
 
-## Native
+## Native<br>
 
-<font color = green>
+<font color = green><br>
 
-Gu......
+Gu......<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElisaPixtink/ElisaPixtink.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElisaPixtink/ElisaPixtink.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.<br>
 
-### Support or Contact
+### Support or Contact<br>
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
